@@ -1,4 +1,4 @@
-# AI Servicing Agent 👨‍💼
+# AI Servicing Agent 🤖
 
 An AI application that simulates a full-service digital agency using multiple AI agents to analyze and plan software projects. Each agent represents a different role in the project lifecycle, from strategic planning to technical implementation.
 
@@ -12,7 +12,7 @@ An AI application that simulates a full-service digital agency using multiple AI
   - Uses AnalyzeStartupTool and MakeStrategicDecision tools
 
 - **CTO Agent**: Technical architecture and feasibility expert
-  - Evaluates technical requirements and feasibility
+  - Evaluate technical requirements and feasibility
   - Provides architecture decisions
   - Uses QueryTechnicalRequirements and EvaluateTechnicalFeasibility tools
 
@@ -29,7 +29,7 @@ An AI application that simulates a full-service digital agency using multiple AI
 - **Client Success Agent**: Marketing strategy leader
   - Develops go-to-market strategies
   - Plans customer acquisition approaches
-  - Coordinates with product team
+  - Coordinates with the product team
 
 ### Custom Tools
 
