@@ -70,7 +70,7 @@ git clone https://github.com/shireen168/ai_servicing_agent.git
 
 2. **Run the Streamlit app**:
     ```bash
-    streamlit run ai_services_agency/agency.py
+    streamlit run agency.py
     ```
 
 3. **Enter your OpenAI API Key** in the sidebar when prompted and start analyzing your startup idea!
